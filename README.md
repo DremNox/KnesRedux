@@ -2,7 +2,7 @@
 
 KSP2 Redux port of [AstroWell/Knes](https://github.com/AstroWell/Knes).
 
-This port is being undertaken with permission from the original author. Original Knes models, textures, part designs and branding remain credited to Stéphane Colombain (AstroWell / Well).
+Original Knes models, textures, part designs and branding remain credited to Stéphane Colombain (AstroWell / Well).
 
 ## Status
 
